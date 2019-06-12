@@ -14,7 +14,7 @@ public class TastKlasa {
     
     public static void main(String[] args){
         
-        Pas cuko = new Pas("dodž","Džeki");
+        Pas cuko = new Pas("dodge","Jackie");
         System.out.println(cuko.glasanje());
         System.out.println(cuko.glasanjeLjut());
         
